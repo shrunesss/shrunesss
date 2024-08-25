@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shrunesss 
+- 👀 I’m interested in CyberSecurity and Coding
+- 🌱 I’m currently learning JS & Rust
+- 😄 Pronouns: He/Him
